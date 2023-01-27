@@ -8,6 +8,7 @@ file:///home/student/Pictures/Screenshot%20from%202023-01-27%2010-13-31.png![ima
 
 
 # task 3
+/home/student/Pictures/1.png
 
 
 
