@@ -1,0 +1,42 @@
+Script started on 2023-01-27 10:34:20+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ sudu[Ko adduser abdulshaikh
+[sudo] password for student: 
+Adding user `abdulshaikh' ...
+Adding new group `abdulshaikh' (1005) ...
+Adding new user `abdulshaikh' (1010) with group `abdulshaikh' ...
+Creating home directory `/home/abdulshaikh' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for abdulshaikh
+Enter the new value, or press ENTER for the default
+	Full Name []: shaIKH==     ikhzayad
+	Room Number []: 1
+	Work Phone []: 123
+	Home Phone []: 456
+	Other []: 0
+Is the information correct? [Y/n] y
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ sudo add [Kuser abdulshaikh2
+Adding user `abdulshaikh2' ...
+Adding new group `abdulshaikh2' (1006) ...
+Adding new user `abdulshaikh2' (1011) with group `abdulshaikh2' ...
+Creating home directory `/home/abdulshaikh2' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for abdulshaikh2
+Enter the new value, or press ENTER for the default
+	Full Name []: shaikhza      aikhzayad
+	Room Number []: 1
+	Work Phone []: 123
+	Home Phone []: 456
+	Other []: 0
+Is the information correct? [Y/n] y
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ sudo [K[K[K abdulshaikh 
+Password: 
+]0;abdulshaikh@student-OptiPlex-7090: /home/student[01;32mabdulshaikh@student-OptiPlex-7090[00m:[01;34m/home/student[00m$ exit
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ exit
+
+Script done on 2023-01-27 10:36:55+05:00 [COMMAND_EXIT_CODE="0"]
