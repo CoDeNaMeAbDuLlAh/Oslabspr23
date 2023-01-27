@@ -8,7 +8,8 @@ file:///home/student/Pictures/Screenshot%20from%202023-01-27%2010-13-31.png![ima
 
 
 # task 3
-/home/student/Pictures/1.png
+
+![1](https://user-images.githubusercontent.com/123714247/215016043-e6a2a83d-c334-4dcf-9da9-0b4a4f1e80bf.png)
 
 
 
