@@ -1,0 +1,21 @@
+Script started on 2023-01-27 09:57:26+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="45"]
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ ls
+ [0m[01;34mDesktop[0m   [01;34mdirOSLAB[0m   [01;34mDocuments[0m   [01;34mDownloads[0m  'first file'   l1.txt   [40;31;01mlink[0m   [01;34mMusic[0m   [01;34mOSLAB[0m   [01;34mPictures[0m   [01;34mPublic[0m   [01;34msnap[0m   task1   [01;34mTemplates[0m   [01;34mtest.c[0m   [01;34mVideos[0m
+]0;student@student-OptiPlex-7090: ~[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~[00m$ cd Desp[Kktop
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ touxh [K[K[Kch help[K[K[K[Knewfile
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ ps
+    PID TTY          TIME CMD
+   4693 pts/1    00:00:00 bash
+   4793 pts/1    00:00:00 ps
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cat [K[K[K[Kecho "wonder-justiceleague-batman' [K[K">> newfile
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ cta [K[Ka[K[Kat newfile
+wonder-justiceleague-batman
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ strinh[Kgs newfile 
+wonder-justiceleague-batman
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ grep newfile "wonder"
+grep: wonder: No such file or directory
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ grep "eomn[K[K[K[Kwonder" newfile
+[01;31m[Kwonder[m[K-justiceleague-batman
+]0;student@student-OptiPlex-7090: ~/Desktop[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on 2023-01-27 10:01:57+05:00 [COMMAND_EXIT_CODE="0"]
