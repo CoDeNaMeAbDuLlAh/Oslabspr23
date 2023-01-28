@@ -1,0 +1,23 @@
+Script started on 2023-01-28 05:54:33-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="235" LINES="50"]
+                                                                                                                                                                                                                                           ]0;kali@kali: ~[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ms[0m[1ms[0m[38;2;153;153;153mudo su - newuser[39m[16D[0m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mabd1[39m[39m=[39m [39m [39m ==   [38;2;153;153;153mabd1[39m[39m [39m [39m [39m [38;2;153;153;153mdo su - newuser[39m[15D[39m[1ms[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[1ms[0m[38;2;153;153;153mudo su - newuser[39m[16D[0m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mabd1[39m[39mn[39m [39m [39m ewuser[?1l>[?2004l
+Password: 
+[?2004h]0;newuser@kali: /home/kali[;32m┌──([1;34mnewuser㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m sudo[K[K[K[Kpasswd abd2
+[?2004lpasswd: You may not view or modify password information for abd2.
+
+[?2004h]0;newuser@kali: /home/kali[;32m┌──([1;34mnewuser㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m sudo passwd abd2
+[?2004l[sudo] password for newuser: 
+New password: 
+Retype new password: 
+passwd: password updated successfully
+
+[?2004h]0;newuser@kali: /home/kali[;32m┌──([1;34mnewuser㉿kali[;32m)-[[0;1m/home/kali[;32m]
+[;32m└─[1;34m$[0m [?2004l
+exit
+                                                                                                                                                                                                                                           ]0;kali@kali: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h
+fwd-i-search: _[K[A[11D[1B[K[A[4C[?2004l[1B
+Script done on 2023-01-28 05:56:24-05:00 [COMMAND_EXIT_CODE="0"]
