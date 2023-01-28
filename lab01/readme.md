@@ -1,4 +1,5 @@
 # task 1 
+![q1](https://user-images.githubusercontent.com/123714247/215283467-6c76b109-d737-41f9-af7b-3895ad50ef5c.png)
 
 
 
