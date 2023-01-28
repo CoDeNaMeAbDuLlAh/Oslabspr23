@@ -1,0 +1,27 @@
+REPORT:
+-----------------------------------------------------------------------------------------------------------------
+q5:
+This was a quite tricky task , as i had to look into multiple websites to get information.
+The first issue was that when I was trying to edit password of user2 while logged into user1 an error message was getting displayed
+which stated "user1 is not in sudoers file", so i wrote the following commands to add user1 into sudoers list.
+sudo 
+
+
+sudo adduser newuser
+sudo usermod -aG sudo newuser
+groups newuser
+sudo su - newuser
+
+After these steps I was able to change the password of user2 by logging into user1 .
+
+
+q6:
+I studied about the vim command on www.educba.com.
+Firstly,I got to know that vim cam be used to create , edit or manipulate files.
+To create a file using vim,  I wrote vim file.txt then i Clicked 'I" to insert information into the file.
+Secondly,after entering information into the file i pressed ESC+ :wq to save the file ,and thats all.
+
+vim new_file.txt
+Esc + :wq
+
+sort task6.txt > itsort.txt
