@@ -28,6 +28,7 @@ q5
 
 
 q6
+![66](https://user-images.githubusercontent.com/123714247/217437829-80da883a-e9ef-43c3-b3b3-ca95e7e4b1a5.png)
 
 
 
