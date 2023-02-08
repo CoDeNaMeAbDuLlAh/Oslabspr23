@@ -22,6 +22,8 @@ q4
 
 q5
 
+![31](https://user-images.githubusercontent.com/123714247/217435034-3a49a1e0-bcdf-462e-8fad-f18cfcc4abc9.png)
+![32](https://user-images.githubusercontent.com/123714247/217435061-58a65a08-fe1b-4f8b-a581-41fac3186049.png)
 
 
 
