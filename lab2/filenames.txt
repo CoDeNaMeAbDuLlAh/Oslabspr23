@@ -1,0 +1,30 @@
+.
+├── filenames.txt
+├── merged.txt
+├── Test1
+│   ├── f1
+│   │   └── TEST.txt
+│   └── f2
+│       └── TEXT.txt
+├── Test2
+│   ├── f1
+│   │   └── TEST.txt
+│   └── f2
+│       └── TEXT.txt
+├── Test3
+│   ├── f1
+│   │   └── TEST.txt
+│   └── f2
+│       └── TEXT.txt
+├── Test4
+│   ├── f1
+│   │   └── TEST.txt
+│   └── f2
+│       └── TEXT.txt
+└── Test5
+    ├── f1
+    │   └── TEST.txt
+    └── f2
+        └── TEXT.txt
+
+15 directories, 12 files
