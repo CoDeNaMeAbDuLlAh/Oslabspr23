@@ -1,0 +1,114 @@
+From osboxes@osboxes Sun Feb 12 03:04:25 2023
+Date: Sun, 12 Feb 2023 03:04:25 -0500
+From: "osboxes.org" <osboxes@osboxes>
+To: k214783@nu.edu.pk
+Subject: hello
+Message-ID: <Y+idTR3hN6fTy+Sh@osboxes>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="xOfk0cr8Ehn8BJ8d"
+Content-Disposition: inline
+Status: RO
+Content-Length: 1073
+Lines: 24
+
+
+--xOfk0cr8Ehn8BJ8d
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+hello
+
+--xOfk0cr8Ehn8BJ8d
+Content-Type: application/x-sh
+Content-Disposition: attachment; filename="q2.sh"
+Content-Transfer-Encoding: quoted-printable
+
+=0Aecho "Abdullah shaikh - 21k-4783 "=0Aecho "NETWORK INFORAMTION OF MY DEV=
+ICE IS :"=0Aecho "---------------------------------------------------------=
+-------------------------------"=0A=0Aip=3D$(ip addr show | grep -Eo '[0-9]=
+{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | head -1)=0Aecho "IP address: $=
+ip"=0Ahost=3D$(hostname)=0Aecho "Hostname: $host"=0Amac_address=3D$(ip link=
+ show | grep -Po '(?<=3Dlink/ether\s)\S+')=0Aecho "MAC address: $mac_addres=
+s"=0Amask=3D$(ip addr show | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.=
+[0-9]{1,3}' | head -2 | tail -1)=0Aecho "Subnet mask: $mask"=0Agateway=3D$(=
+ip route show default | awk '/default/ {print $3}')=0Aecho "Default gateway=
+: $gateway"=0Aecho "-------------------------------------------------------=
+---------------------------------"=0A
+--xOfk0cr8Ehn8BJ8d--
+
+From osboxes@osboxes Sun Feb 12 03:14:07 2023
+Date: Sun, 12 Feb 2023 03:14:07 -0500
+From: "osboxes.org" <osboxes@osboxes>
+To: abdullahshaikh085@gmail.com
+Subject: a
+Message-ID: <Y+ifk0btr4ptcP2V@osboxes>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="72yxZ1uPDd2pAVYH"
+Content-Disposition: inline
+Status: RO
+Content-Length: 1069
+Lines: 24
+
+
+--72yxZ1uPDd2pAVYH
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+a
+
+--72yxZ1uPDd2pAVYH
+Content-Type: application/x-sh
+Content-Disposition: attachment; filename="q2.sh"
+Content-Transfer-Encoding: quoted-printable
+
+=0Aecho "Abdullah shaikh - 21k-4783 "=0Aecho "NETWORK INFORAMTION OF MY DEV=
+ICE IS :"=0Aecho "---------------------------------------------------------=
+-------------------------------"=0A=0Aip=3D$(ip addr show | grep -Eo '[0-9]=
+{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | head -1)=0Aecho "IP address: $=
+ip"=0Ahost=3D$(hostname)=0Aecho "Hostname: $host"=0Amac_address=3D$(ip link=
+ show | grep -Po '(?<=3Dlink/ether\s)\S+')=0Aecho "MAC address: $mac_addres=
+s"=0Amask=3D$(ip addr show | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.=
+[0-9]{1,3}' | head -2 | tail -1)=0Aecho "Subnet mask: $mask"=0Agateway=3D$(=
+ip route show default | awk '/default/ {print $3}')=0Aecho "Default gateway=
+: $gateway"=0Aecho "-------------------------------------------------------=
+---------------------------------"=0A
+--72yxZ1uPDd2pAVYH--
+
+From osboxes@osboxes Sun Feb 12 03:21:15 2023
+Date: Sun, 12 Feb 2023 03:21:15 -0500
+From: "osboxes.org" <osboxes@osboxes>
+To: k214783@nu.edu.pk
+Subject: hello
+Message-ID: <Y+ihP7sg9tvKcs3i@osboxes>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="eT4sviHy0CCG9eOQ"
+Content-Disposition: inline
+Status: RO
+Content-Length: 1069
+Lines: 24
+
+
+--eT4sviHy0CCG9eOQ
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+e
+
+--eT4sviHy0CCG9eOQ
+Content-Type: application/x-sh
+Content-Disposition: attachment; filename="q2.sh"
+Content-Transfer-Encoding: quoted-printable
+
+=0Aecho "Abdullah shaikh - 21k-4783 "=0Aecho "NETWORK INFORAMTION OF MY DEV=
+ICE IS :"=0Aecho "---------------------------------------------------------=
+-------------------------------"=0A=0Aip=3D$(ip addr show | grep -Eo '[0-9]=
+{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | head -1)=0Aecho "IP address: $=
+ip"=0Ahost=3D$(hostname)=0Aecho "Hostname: $host"=0Amac_address=3D$(ip link=
+ show | grep -Po '(?<=3Dlink/ether\s)\S+')=0Aecho "MAC address: $mac_addres=
+s"=0Amask=3D$(ip addr show | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.=
+[0-9]{1,3}' | head -2 | tail -1)=0Aecho "Subnet mask: $mask"=0Agateway=3D$(=
+ip route show default | awk '/default/ {print $3}')=0Aecho "Default gateway=
+: $gateway"=0Aecho "-------------------------------------------------------=
+---------------------------------"=0A
+--eT4sviHy0CCG9eOQ--
+
