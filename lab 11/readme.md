@@ -87,4 +87,20 @@ prepared by :Abdullah shaikh ---------------------------------------------------
 
 
 
+Screenshots :
+                                                                (SQUID)
+                                                                
+![ab1](https://user-images.githubusercontent.com/123714247/234627543-122f404e-8bd4-4d4f-b5e7-f6f2f397f766.png)
+
+![ab2](https://user-images.githubusercontent.com/123714247/234627552-91c12ea8-cda5-493f-a518-57b103d0fef5.png)
+
+![ab3](https://user-images.githubusercontent.com/123714247/234627581-d4ec86a5-caf8-46db-9e34-26f1f4c7f5dd.png)
+
+![ab4](https://user-images.githubusercontent.com/123714247/234627599-f3bc9419-c1e1-46fa-94cf-e3572b97f51a.png)
+
+
+
+
+
+
 
