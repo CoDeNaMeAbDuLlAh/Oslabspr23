@@ -100,6 +100,38 @@ Screenshots :
 
 
 
+linux hardening screenshots :
+
+![l1](https://user-images.githubusercontent.com/123714247/234642832-f8ca766a-2919-41a4-80bf-ee072032cdda.png)
+
+
+
+![l2](https://user-images.githubusercontent.com/123714247/234642861-f65caaae-3fb0-4302-8c39-5977e6e67104.png)
+
+![l3](https://user-images.githubusercontent.com/123714247/234642907-eaeebb8d-046b-407f-843b-62ee6a6ca9e5.png)
+![l4](https://user-images.githubusercontent.com/123714247/234642958-fda09659-4e4f-4dad-bfd8-86f108d99bc0.png)
+
+
+![l5](https://user-images.githubusercontent.com/123714247/234642966-75f5a670-7ec7-4627-9d4e-cd01bfba9bff.png)
+
+
+![l6](https://user-images.githubusercontent.com/123714247/234643015-9269397e-9d1a-4894-bc90-54419c76e632.png)
+
+![l7](https://user-images.githubusercontent.com/123714247/234643031-b8d78b8b-f2ad-42e6-be5d-3d0d6e83c16b.png)
+
+![l8](https://user-images.githubusercontent.com/123714247/234643047-18aaa9fb-348a-4100-9076-8c44ac287174.png)
+
+![l9](https://user-images.githubusercontent.com/123714247/234643101-e40f4118-769e-4afe-8e85-1aeaaa1a4e75.png)
+![l10](https://user-images.githubusercontent.com/123714247/234643107-d4c92575-95fb-40f0-8d74-a5e24f02caf6.png)
+
+![l11](https://user-images.githubusercontent.com/123714247/234643120-4af3a35f-ae1a-42cb-81f9-b85a80b4cb4f.png)
+
+![l12](https://user-images.githubusercontent.com/123714247/234643136-85d21c20-2a07-4680-b30b-09b58f36eb4e.png)
+![l13](https://user-images.githubusercontent.com/123714247/234643148-fe274f47-8153-4497-9591-0f09b9b5efda.png)
+
+![l14](https://user-images.githubusercontent.com/123714247/234643160-26ae62a4-ea71-4fa1-a6bf-9c8859ae55e0.png)
+
+![l15](https://user-images.githubusercontent.com/123714247/234643167-92ff3ffa-6f6e-4d32-a0b2-104e86e7d3de.png)
 
 
 
