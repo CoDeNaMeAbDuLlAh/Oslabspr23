@@ -128,6 +128,8 @@ linux hardening screenshots :
 
 ![l12](https://user-images.githubusercontent.com/123714247/234643136-85d21c20-2a07-4680-b30b-09b58f36eb4e.png)
 ![l13](https://user-images.githubusercontent.com/123714247/234643148-fe274f47-8153-4497-9591-0f09b9b5efda.png)
+<img width="493" alt="Capture" src="https://user-images.githubusercontent.com/123714247/234655332-b90ba3d1-8ef6-4e42-93c0-88670aa3841e.PNG">
+
 
 ![l14](https://user-images.githubusercontent.com/123714247/234643160-26ae62a4-ea71-4fa1-a6bf-9c8859ae55e0.png)
 
