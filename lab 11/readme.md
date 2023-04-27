@@ -24,13 +24,18 @@ Linux Hardening Tools:
 
 Here are some basic commands:
 
+--> Configuring and using a firewall to control network traffic
+
     Disabling a service using systemctl: sudo systemctl disable <service-name>.
     Configuring automatic updates: sudo apt-get install unattended-upgrades.
     Choosing a firewall: sudo apt-get install firewalld.
     Downloading and configuring nftables: sudo dpkg -l | grep nftables.
-
+    
+    
+-->Implementing strong password policies.
 Consider these four things when choosing passwords: length, complexity, age, and history.
-
+    
+-->Configuring file system permissions to restrict access to sensitive files and directories
 Set ownership and group permissions:
 
     To give ownership of a file named sensitive.txt to a user named "username," run: chown username sensitive.txt.
@@ -38,15 +43,26 @@ Set ownership and group permissions:
     To give the user read and write permissions for a file named file.txt, run: chmod u+rw file.txt.
     To give group members read permissions and no permissions to others for a file named file.txt, run: chmod g+r file.txt, chmod o-rwx file.txt.
     To give user "alice" write permissions for a file named sensitive.txt, run: setfacl -m u:alice:rw sensitive.txt.
-
-Implementing User Management:
+    
+    
+    
+-->Keeping the system up-to-date with security patches and updates.
+      sudo apt update
+      sudo apt install linux-generics
+      sudo apt-get install unattended-upgrades
+    
+    
+-->Implementing User Management:
 
     Limit user privileges.
     Implement strong password policies.
     Monitor user activity.
     Conduct regular security training.
     Review and audit user accounts.
+    
 
+
+--> LINUX HARDENING
 Hardening tools are software programs that automate this process, making it easier for administrators to identify and eliminate security risks. Examples include JShielder, Lynis, OpenSCAP, Zeus, and nixarmor.
 
 
