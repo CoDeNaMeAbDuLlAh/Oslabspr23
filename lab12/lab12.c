@@ -1,9 +1,13 @@
+//important libraries for input output ,
+//omp.h header for implementing openmp
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <omp.h>
 
+
+//merge sort algorithm
 void merge(int* arr, int l, int m, int r) {
     int n1 = m - l + 1;
     int n2 = r - m;
@@ -69,6 +73,7 @@ void merge_sort(int* arr, int l, int r) {
 }
 
 int main() {
+    // constant number of random numbers 
     const int n = 1 << 18;
     int* arr = (int*)malloc(n * sizeof(int));
     srand(time(NULL));
@@ -77,8 +82,8 @@ int main() {
     for (int i = 0; i < n; i++) {
         arr[i] = rand();
     }
-
-    double start_time = omp_get_wtime();
+// creating 20 threads 
+    double start_time = omp_get_wtime(); 
 
     merge_sort(arr, 0, n - 1);
 
