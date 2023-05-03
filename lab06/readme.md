@@ -1,4 +1,23 @@
+REPORT FOR LAB-6
 
+The tasks had four objectives 
+-The main issue which i encountered was that i was able to give half
+the numbers to both of the cons.c , but only at the starting.
+
+THese cons.c were not able to generate the other 2 cons.c. 
+
+
+How i resolved the issue ?
+I just distributed the random numbers to cons1.c and cons2.c only once this 
+made it easy for me to complete the code.
+
+ 
+
+
+
+
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________
 PROD.C
 #include <stdio.h>
 #include <stdlib.h>
