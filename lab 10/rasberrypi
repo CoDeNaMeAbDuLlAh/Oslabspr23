@@ -72,17 +72,13 @@ Click Add Hardware:
     Select Device Type: UNIX socket (unix).
     Click Finish.
 
-(Optional) Click Add Hardware:
-    Go to RNG tab.
-    Click Finish.
     Click Begin Installation.
 
 The VM will start and begin installation. Wait for it to finish, you'll be prompted to log in.
 
 5 : Inside VM
 Log in with the default credentials Login: pi and Password: raspberry.
-Run $ sudo raspi-config to configure the OS (hostname, password, ssh, language, keyboard layout, etc.).
-Run $ sudo apt install qemu-guest-agent to install QEMU guest agent and enable host control.
+
 
 6 : fiNISH 
 
