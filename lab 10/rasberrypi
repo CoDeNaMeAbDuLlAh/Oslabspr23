@@ -1,8 +1,8 @@
 ----------------------------------------------------21k-4783-------------------------------------------------------------------------------
-**(Write up for rasberry pi image:)
+--(Write up for rasberry pi image:)
 what is qemu?
 ans:A platform for running virtual machines (VMs) on various host operating systems. QEMU can emulate a wide range of hardware architectures,
-including x86, ARM, PowerPC, and more.**
+including x86, ARM, PowerPC, and more.--
 
 1 : Installing QEMU first
 $ sudo apt install qemu-system-arm qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager
